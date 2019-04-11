@@ -1,8 +1,10 @@
 import $ from 'jquery';
 import bird from '../images/bird.jpg';
 import mouse from '../images/squirrel.jpg';
+
 import '../css/style.css';
 import '../css/normalize.css';
+
 import "../css/fonts/PT-Sans-Bold.eot";
 import "../css/fonts/PT-Sans-Bold.svg";
 import "../css/fonts/PT-Sans-Bold.ttf";
